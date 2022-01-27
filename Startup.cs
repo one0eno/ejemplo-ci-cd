@@ -15,6 +15,7 @@ namespace preubaazure
     {
         public Startup(IConfiguration configuration)
         {
+
             Configuration = configuration;
         }
 
