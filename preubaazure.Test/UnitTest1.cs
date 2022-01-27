@@ -1,7 +1,7 @@
 using System;
 using Xunit;
 
-namespace testcdcinewproyect.Test
+namespace preubaazure.Test
 {
     public class UnitTest1
     {
