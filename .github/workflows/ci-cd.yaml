@@ -6,7 +6,7 @@ on:
       - master
 env:
   DOTNET_VERSION: '5.0.x'
-  AZURE_WEBAPP_NAME: proyectouno
+  AZURE_WEBAPP_NAME: mayhem
 
 jobs:
   build:
